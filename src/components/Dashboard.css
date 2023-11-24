@@ -1,0 +1,24 @@
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    color: #3498db;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #333;
+  }
+  
+  /* Add your other styles here */
+  
